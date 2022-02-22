@@ -1,0 +1,1 @@
+![](plots/boardgame.png)
