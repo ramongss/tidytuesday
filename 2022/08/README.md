@@ -1,0 +1,1 @@
+![](plots/world_freedom.png)
